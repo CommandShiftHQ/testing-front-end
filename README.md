@@ -1,3 +1,5 @@
+## This is a support repo for the the testing frontend lecture for Feb2019 cohort (tests pass but coverage isn't great and styling is sketchy, enjoy!)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
