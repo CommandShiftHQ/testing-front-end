@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.artists-list-item {
+  list-style: none;
+}
+
+.artists-list-button {
+  margin-left: 15px;
+  background-color: #f44336;
+  color: white;
+}
